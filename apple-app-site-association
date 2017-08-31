@@ -19,7 +19,7 @@
             {
                 "appID": "387XP6LY3T.com.pc.app.test",
                 "paths": [
-                    "/pctest_inhouse/*",,
+                    "/pctest_inhouse/*",
                     “*”,
                     "/"
                 ]
